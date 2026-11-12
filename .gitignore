@@ -5,3 +5,6 @@ __pycache__/
 data/**/groundtruth/
 data/_cache/
 /*.zip
+*.pt
+hard_upload.json
+yolo_to_cvat.py
